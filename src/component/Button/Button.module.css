@@ -1,0 +1,29 @@
+.PrimaryBtn{
+padding: 18px 10px;
+background-color: black;
+color: white;
+min-width: 220px;
+border-radius: 5px;
+display: flex;
+text-align: center;
+gap: 8px;
+justify-content: center;
+cursor: pointer;
+}
+
+.OutlineBtn{
+    padding: 18px 10px;
+    border: 1px solid black;
+    color: black;
+    min-width: 220px;
+    border-radius: 5px;
+    display: flex;
+    text-align: center;
+    gap: 8px;
+    justify-content: center;
+    background-color: white;
+    width: 43%;
+    margin-top: 20px;
+    cursor: pointer;
+    }
+    
